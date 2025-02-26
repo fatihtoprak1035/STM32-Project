@@ -75,8 +75,7 @@ Bu mod, **sistemde bulunan butona basıldığında** aktif olur. **Potansiyometr
 
 ---
 
-## 📜 Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Özgürce kullanabilir, geliştirebilir ve paylaşabilirsiniz.
+
 
 📧 **İletişim:** Proje hakkında sorularınız varsa, GitHub üzerinden issue açabilirsiniz! 🚀
 
